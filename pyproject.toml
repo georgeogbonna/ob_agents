@@ -2,7 +2,7 @@
 name = "ob_agents"
 version = "0.1.0"
 description = "ob_agents using crewAI"
-authors = [{ name = "Your Name", email = "you@example.com" }]
+authors = [{ name = "Your Name", email = "georgeogbonna@hotmail.com" }]
 requires-python = ">=3.10,<3.14"
 dependencies = [
     "crewai[google-genai,tools]==1.2.1",

@@ -20,7 +20,7 @@ def run():
     #user_input = input("Enter the topic you want to explore with the crew (default: 'AI LLMs'): ")
     #topic = user_input if user_input else "AI LLMs"
     inputs = {
-        'topic': "AI LLMs",
+        'topic': "Donald Trupm",
         'current_year': str(datetime.now().year)
     }
 
